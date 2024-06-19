@@ -1,0 +1,9 @@
+Bridge Design Pattern
+
+Bu pattern'ý anlamak için 2 farklý bakýþ açýsýna sahip olmamýz gerekir. 
+
+(Kötü yazýlmýþ koda uygulanarak refactoring iþlemi yapmak için þu bakýþ açýsý ele alýnmalý.)
+Soyutlama ve implementasyon arasýndaki baðýmlýlýðý azaltmak için kullanmalýyým.
+
+(Henüz yazýlmamýþ koddaki sýnýf iliþkilerini tasarlarken þu bakýþ açýsý ele alýnmalý.)
+Zaten baðýmsýz olmasý gereken 2 ayrý hiyerarþiyi, birbirlerine yarý baðýmlý hale getirmeliyim.

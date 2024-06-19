@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Refactoring", "Refactoring\Refactoring.csproj", "{BA95E915-27E7-41D8-91E5-3E98CC042BC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bridge", "Bridge\Bridge.csproj", "{9AACF752-391C-4283-9167-78BB0A518B7E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F8338DE4-FA6E-433C-B9E9-780F93711AEB}"
+	ProjectSection(SolutionItems) = preProject
+		Not.txt = Not.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA95E915-27E7-41D8-91E5-3E98CC042BC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA95E915-27E7-41D8-91E5-3E98CC042BC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA95E915-27E7-41D8-91E5-3E98CC042BC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA95E915-27E7-41D8-91E5-3E98CC042BC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AACF752-391C-4283-9167-78BB0A518B7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AACF752-391C-4283-9167-78BB0A518B7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AACF752-391C-4283-9167-78BB0A518B7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AACF752-391C-4283-9167-78BB0A518B7E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3ABE6F7E-F9F7-402C-AF03-364D73185942}
+	EndGlobalSection
+EndGlobal
